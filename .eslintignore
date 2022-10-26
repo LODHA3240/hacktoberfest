@@ -1,0 +1,8 @@
+client/.cache/**
+client/static/**
+client/public/**
+api-server/src/public/**
+api-server/lib/**
+config/i18n.js
+config/certification-settings.js
+web/**
